@@ -274,28 +274,28 @@ function create_config( )
     "Caption",
     "Payamresan"
     },
-    sudo_users = { 196560568,167288719},
+    sudo_users = { 262724377,241188407,174410791},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[👑 Signal Bot 👑
+    about_text = [[👑 aghrab bot 👑
 An advanced administration bot based on TG-CLI written in Lua
 
-🔰 amigo 🔰
+🔰 aghrab 🔰
 
 
 Admins:
-🔥 @Ww_Developer_wW [Founder & Developer] 🔥
+🔥 @alfroshotak [Founder & Developer] 🔥
 
-🔥 @alfroshotak [Sudo & Manager] 🔥
+🔥 @king_of_aghrab [Sudo & Manager] 🔥
 
-🔥 @iamrapfarsi [Sudo] 🔥
+🔥 king_of_spam [Sudo] 🔥
 
-🔥 @VViruss_tm_founder[Sudo] 🔥
+🔥 @@addmine_1_aqrabam_revale founder[Sudo] 🔥
 
 Special thanks to
 SEEDTEAM
 
 Our channels
-other
+other: @aghrab_news
 ]],
     help_text_realm = [[
 Realm Commands:
